@@ -19,7 +19,7 @@ namespace exampleGit
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            int r = 0;
+            int r = 100;
         }
     }
 }
